@@ -1,0 +1,10 @@
+struct num{
+	int a;
+	int b;
+};
+
+program AREAPROG{
+	version ADDVER{
+		int AREA(num)=1;
+	}=1;
+}=0x21234567;
